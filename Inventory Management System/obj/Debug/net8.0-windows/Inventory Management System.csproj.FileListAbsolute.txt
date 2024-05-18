@@ -1,0 +1,27 @@
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\Inventory Management System.exe
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\Inventory Management System.deps.json
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\Inventory Management System.runtimeconfig.json
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\Inventory Management System.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\Inventory Management System.pdb
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory Management System.csproj.AssemblyReference.cache
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.CURD.resources
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.Form1.resources
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.Login.resources
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory_Management_System.Properties.Resources.resources
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory Management System.csproj.GenerateResource.cache
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory Management System.AssemblyInfoInputs.cache
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory Management System.AssemblyInfo.cs
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory Management System.csproj.CoreCompileInputs.cache
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory Management System.csproj.CopyComplete
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory Management System.dll
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\refint\Inventory Management System.dll
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory Management System.pdb
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\Inventory Management System.genruntimeconfig.cache
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\ref\Inventory Management System.dll

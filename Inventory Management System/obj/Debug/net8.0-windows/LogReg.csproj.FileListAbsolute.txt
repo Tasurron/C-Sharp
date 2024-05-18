@@ -1,0 +1,108 @@
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\LogReg.exe
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\LogReg.deps.json
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\LogReg.runtimeconfig.json
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\LogReg.dll
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\LogReg.pdb
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\LogReg\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.csproj.AssemblyReference.cache
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.Form1.resources
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.Properties.Resources.resources
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.csproj.GenerateResource.cache
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.AssemblyInfoInputs.cache
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.AssemblyInfo.cs
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.csproj.CoreCompileInputs.cache
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.csproj.CopyComplete
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.dll
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\refint\LogReg.dll
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.pdb
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.genruntimeconfig.cache
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\ref\LogReg.dll
+D:\AIUB\C# Codes\LogReg\obj\Debug\net8.0-windows\LogReg.Login.resources
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\LogReg.exe
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\LogReg.deps.json
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\LogReg.runtimeconfig.json
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\LogReg.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\LogReg.pdb
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\LogReg - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.csproj.AssemblyReference.cache
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.CURD.resources
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.Form1.resources
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.Login.resources
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.Properties.Resources.resources
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.csproj.GenerateResource.cache
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.AssemblyInfoInputs.cache
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.AssemblyInfo.cs
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.csproj.CoreCompileInputs.cache
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.csproj.CopyComplete
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.dll
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\refint\LogReg.dll
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.pdb
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\LogReg.genruntimeconfig.cache
+D:\AIUB\C# Codes\LogReg - Copy\obj\Debug\net8.0-windows\ref\LogReg.dll
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\LogReg.exe
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\LogReg.deps.json
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\LogReg.runtimeconfig.json
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\LogReg.dll
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\LogReg.pdb
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.csproj.AssemblyReference.cache
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.CURD.resources
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.Form1.resources
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.Login.resources
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.Properties.Resources.resources
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.csproj.GenerateResource.cache
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.AssemblyInfoInputs.cache
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.AssemblyInfo.cs
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.csproj.CoreCompileInputs.cache
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.csproj.CopyComplete
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.dll
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\refint\LogReg.dll
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.pdb
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\LogReg.genruntimeconfig.cache
+D:\AIUB\C# Codes\Inventory Management System\obj\Debug\net8.0-windows\ref\LogReg.dll
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.dll
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\refint\LogReg.dll
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.pdb
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\LogReg.exe
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\LogReg.deps.json
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\LogReg.runtimeconfig.json
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\LogReg.dll
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\LogReg.pdb
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.CURD.resources
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.Form1.resources
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.Login.resources
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.Properties.Resources.resources
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.AssemblyInfo.cs
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.sourcelink.json
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.csproj.CopyComplete
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\LogReg.genruntimeconfig.cache
+C:\Users\hp\Downloads\Inventory Management System 1\Inventory Management System\obj\Debug\net8.0-windows\ref\LogReg.dll
